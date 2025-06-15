@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #6f86d6, #48c6ef);
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+img {
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+video {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+}
+
+form {
+    margin-top: 20px;
+}
+
+button, input[type="submit"] {
+    background-color: #ffffff;
+    color: #333;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #f1f1f1;
+    transform: scale(1.05);
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+table th, table td {
+    color: #000; /* Ubah warna teks jadi hitam */
+}
+
+table a {
+    color: #007bff; /* Ubah warna tautan jadi biru */
+    text-decoration: none;
+}
+
+table a:hover {
+    text-decoration: underline;
+}
