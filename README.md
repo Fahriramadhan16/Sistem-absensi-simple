@@ -1,4 +1,4 @@
-# 📱 Sistem Absensi Mahasiswa Berbasis HP
+# 📱 Sistem Absensi Mahasiswa Berbasis website
 
 Sistem absensi ini dirancang untuk mempermudah proses pencatatan kehadiran mahasiswa hanya menggunakan **smartphone**. Tanpa perlu perangkat tambahan, sistem ini sudah terintegrasi dengan **Google Forms** dan **Google Spreadsheet**, serta mendukung dokumentasi kehadiran melalui **foto dan timestamp**.
 
